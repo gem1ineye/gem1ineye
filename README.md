@@ -5,7 +5,7 @@
 
 <!-- Lofi Illustration -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imaoharsh/imaoharsh/main/lofiboy.webp" alt="Lofi coding illustration" width="300"/>
+  <img src="https://raw.githubusercontent.com/imaoharsh/imaoharsh/main/lofiboy.webp" alt="Lofi coding illustration" width="600"/>
 </p>
 
 <!-- Intro GIF -->
